@@ -16,8 +16,6 @@ pip install requirements.txt
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
 First step is to run the first file in order to generate pseudo-random weather data:
 
 ```
